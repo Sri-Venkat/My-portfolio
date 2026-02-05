@@ -8,7 +8,7 @@ The portfolio follows a **component-based architecture**, is optimized for perfo
 ---
 
 ## 🔗 Live Demo
-(Add your Vercel deployment link here)
+https://portfolio-mu-ivory-jh7u6md18c.vercel.app/
 
 ---
 
